@@ -1,0 +1,6 @@
+Become apart of the Git train, it's mandatory if you want to work with any stable company, or even a start up company!
+
+Note:
+
+This course is not meant to be looked at as comprehensive on the topics of Git, Bitbucket, and Sourcetree.
+This course is meant to be treated as an introduction to the topics of Git, Bitbucket, and Sourcetree. Once you complete the
